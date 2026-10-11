@@ -41,8 +41,8 @@ I bridge the gap between complex infrastructure and business intelligence. My ex
 ---
 
 ### 📫 Connect & Collaborate
-- **LinkedIn:** [Your LinkedIn Profile](https://linkedin.com/in/your-username)
-- **Email:** [Your Email Address]
+- **LinkedIn:** https://www.linkedin.com/in/hiteshkumar007
+- **Email:** hitesh.mathur17@gmail.com
 - **Focus:** Always open to discussing **Big Data Strategy**, **Cloud Migration**, and **AI-Ready Data Infrastructure**.
 
 ---
